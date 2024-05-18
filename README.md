@@ -25,9 +25,5 @@ https://github.com/acruzr2021/p3_modelado/assets/92941137/bda47e68-6b69-4a3d-827
 
 https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_sand
 
-
-
-
-    Añade 2 links, uno por cada rosbag creado (puedes subirlo a one drive).
-    Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio.
+Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio.
 
