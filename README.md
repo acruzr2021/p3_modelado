@@ -73,4 +73,4 @@ Podemos ver que en la arena, la gráfica del sensor IMU oscila algo más. Para l
 
 ## Fase A 
 
-Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio
+[Vídeo](https://youtu.be/lUqWeLrpTyA)
