@@ -5,25 +5,62 @@
 - [Gráficas](#gráficas)
   - [Floor world](#floor-world)
   - [Sand world](#sand-world)
+- [Comparación](#comparación)
+- [Fase A](#fase-a)
   
 
 ## Gráficas
 
 ### Floor world 
 
+Velocidad final
+
 ![floor_plot](https://github.com/acruzr2021/p3_modelado/assets/92941137/57eb5b50-a880-454c-8072-72e94e16a772)
 
+Velocidad publicada para las ruedas
+
+![floor_wheels](https://github.com/acruzr2021/p3_modelado/assets/92941137/c5083418-d769-4745-a54b-704fe3cd06e1)
+
+Gráfica IMU:
+
+![floor_imu](https://github.com/acruzr2021/p3_modelado/assets/92941137/f779f878-9537-4ab4-8628-3d2adec25bd9)
+
+Vídeo ejecución:
+
 https://github.com/acruzr2021/p3_modelado/assets/92941137/fb07cf13-15d9-4764-baee-359426ef0a5a
+
+Enlace rosbag:
 
 https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_floor9
 
 ### Sand world
 
+Velocidad final
+
 ![sand_plot](https://github.com/acruzr2021/p3_modelado/assets/92941137/ee399306-158f-494f-864c-b731f05871a3)
+
+)
+
+Velocidad publicada para las ruedas
+
+![sand_wheels](https://github.com/acruzr2021/p3_modelado/assets/92941137/1fbf283f-a7ac-46ef-953e-4dc0e62c430a)
+
+Gráfica IMU:
+
+![sand_imu](https://github.com/acruzr2021/p3_modelado/assets/92941137/7bae0c93-979f-473c-9195-23475043f1ba)
+
+Vídeo ejecución:
 
 https://github.com/acruzr2021/p3_modelado/assets/92941137/bda47e68-6b69-4a3d-827d-0d45b727e022
 
+Enlace rosbag:
+
 https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_sand
 
-Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio.
+## Comparación
 
+
+
+## Fase A 
+
+Por último añade un vídeo autoexplicativo con audio (máximo de 5 minutos) donde se explique la Parte A de la práctica. Por favor, evita grabar vídeos con el móvil, utiliza cualquier aplicación de grabación de escritorio
