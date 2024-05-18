@@ -15,6 +15,7 @@
 
 https://github.com/acruzr2021/p3_modelado/assets/92941137/fb07cf13-15d9-4764-baee-359426ef0a5a
 
+https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_floor9
 
 ### Sand world
 
@@ -22,6 +23,7 @@ https://github.com/acruzr2021/p3_modelado/assets/92941137/fb07cf13-15d9-4764-bae
 
 https://github.com/acruzr2021/p3_modelado/assets/92941137/bda47e68-6b69-4a3d-827d-0d45b727e022
 
+https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_sand
 
 
 
