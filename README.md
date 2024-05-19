@@ -37,7 +37,7 @@ https://github.com/acruzr2021/p3_modelado/assets/92941137/fb07cf13-15d9-4764-bae
 
 Enlace rosbag:
 
-https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_floor9
+[Rosbag](https://drive.google.com/drive/folders/1SDk8P6YyzuxjOCf1vkAhIb2vB1f1G-jZ?usp=drive_link)
 
 ### Sand world
 
@@ -65,7 +65,7 @@ https://github.com/acruzr2021/p3_modelado/assets/92941137/bda47e68-6b69-4a3d-827
 
 Enlace rosbag:
 
-https://github.com/acruzr2021/p3_modelado/tree/82e0ddbb68f601734fe8f48989f924cbde26b6d4/bag_sand
+[Rosbag](https://drive.google.com/drive/folders/19ltdUlZhe13wtP1IQmvR35gh_axI9uMn?usp=drive_link)
 
 ## Comparación
 
