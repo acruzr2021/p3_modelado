@@ -37,7 +37,7 @@ https://github.com/acruzr2021/p3_modelado/assets/92941137/fb07cf13-15d9-4764-bae
 
 Enlace rosbag:
 
-[Rosbag](https://drive.google.com/drive/folders/1SDk8P6YyzuxjOCf1vkAhIb2vB1f1G-jZ?usp=drive_link)
+[Rosbag]([https://drive.google.com/drive/folders/1SDk8P6YyzuxjOCf1vkAhIb2vB1f1G-jZ?usp=drive_link](https://drive.google.com/drive/folders/1SDk8P6YyzuxjOCf1vkAhIb2vB1f1G-jZ?usp=sharing))
 
 ### Sand world
 
